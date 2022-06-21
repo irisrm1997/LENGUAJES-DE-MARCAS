@@ -1,0 +1,13 @@
+ <! -- ELEMENTOS SIMPLES  -->
+<ciudad>Roma</ciudad>
+<fecha-de-nacimiento>1996-12-18</fecha-de-nacimiento>
+<hora>18:29:45</hora>
+<nota>7.5</nota>
+<apto>true</apto>
+
+<! -- ESCRIBIR SUS DEFINICIONES DE ELEMENTOS SIMPLES CORRESPONDIENTES -->
+<xs:element name="ciudad" type="xs:string"/>
+<xs:element name="fecha-de-nacieminto" type="date"/>
+<xs:element name="hora" type="time"/>
+<xs:element name="nota" type="decimal"/>
+<xs:element naem="apto" type="boolean"/>

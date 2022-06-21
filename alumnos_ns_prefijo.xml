@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<al:alumnos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xmlns:al="http://lmsgi.ud04.iessanclemente.net"
+xsi:schemaLocation="http://lmsgi.ud04.iessanclemente.net alumnos_ns.xsd">
+    <al:alumno>
+        <al:nombre>Jose Ramón</al:nombre>
+        <al:apellidos>García González</al:apellidos>
+        <al:direccion>
+            <al:domicilio>El Pez, 12</al:domicilio>
+            <al:codigo_postal cp="85620"/>
+            <al:localidad>Suances</al:localidad>
+            <al:provincia>Cantabria</al:provincia>
+        </al:direccion>
+        <al:contactar>
+            <al:telf_casa>985623165</al:telf_casa>
+            <al:telf_movil>611233544</al:telf_movil>
+            <al:telf_trabajo>965847536</al:telf_trabajo>
+            <al:email href="pepito@educadistancia.com"/>
+        </al:contactar>
+    </al:alumno>
+    <al:alumno>
+        <al:nombre>Carlos</al:nombre>
+        <al:apellidos>López Pérez</al:apellidos>
+        <al:direccion>
+            <al:domicilio>El Cangrejo, 25</al:domicilio>
+            <al:codigo_postal cp="86290"/>
+            <al:localidad>Santillana</al:localidad>
+            <al:provincia>Cantabria</al:provincia>
+        </al:direccion>
+        <al:contactar>
+            <al:telf_casa>931132565</al:telf_casa>
+            <al:telf_movil>623863544</al:telf_movil>
+            <al:telf_trabajo>984657536</al:telf_trabajo>
+            <al:email href="carlos@educadistancia.com"/>
+        </al:contactar>
+    </al:alumno>
+</al:alumnos>
+
+
+
+
+
+
+
+
+
+
+
+
