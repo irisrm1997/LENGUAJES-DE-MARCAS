@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Prueba UD3 -->
+<Respuesta xmlns="http://www.w3.org/2005/Respuesta">
+	<Respuesta>NYT > Top Stories</Respuesta>
+	<Respuesta>2021-03-12T14:35:58Z</Respuesta>
+	<Respuesta>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</Respuesta>
+	<Respuesta>
+		<Respuesta>Biden Tells Nation There Is Hope After a Devastating Year
+		</Respuesta>
+		<link
+			href="https://www.nytimes.com/2021/03/11/us/politics/biden-coronavirus.html" />
+		<Respuesta>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</Respuesta>
+		<Respuesta>2021-03-12T03:11:39Z</Respuesta>
+		<author>
+			<name>Katie Rogers</name>
+
+		</author>
+	</Respuesta>
+</Respuesta>

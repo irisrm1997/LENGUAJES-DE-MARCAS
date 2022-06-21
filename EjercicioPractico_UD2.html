@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link rel="stylesheet" href="EjercicioPractico_UD2.css">
+        <title>El periódico</title>   
+        <meta charset="utf-8"/>
+    </head>
+    <body>
+
+       <div>
+            <h1>El periódico</h1>
+            <nav class="cabecera">   
+        
+                <a href=""> Economía </a>
+                <a href=""> Ciencia </a>
+                <!-- Apartado b): Enlace a sección Contacto -->
+                <a href="#contacto"> Contacto </a>
+            </nav>         
+      
+           </div>
+        <section id=economía>
+            <h2>Economía</h2>
+            <!--Apartado c: la imagen --> 
+            <img src="imagen1.jpeg" alt="grafico">
+            
+        </section>
+
+        <section>
+            <h2>Ciencia</h2>
+            
+             <p>Aquí está el párrafo 1</p>          
+                      
+              <!--Apartado e --> 
+              <table>
+                <tr>
+                  <td>Examen</td>
+                  <td>Fecha</td>
+                </tr>
+                <tr>
+                  <td>LLMM</td>
+                  <td>16/12/2020</td>
+              </table>
+            
+
+        </section>
+
+        <section id="contacto">
+            <h2>Contacto</h2>
+            
+            <!-- Apartado f) formulario-->
+            <form action="/action_page.php" method="get">
+                <label for="nombre">Nombre:</label><br>
+                <input type="text" id="nombre" name="nombre" placeholder="Nombre" maxlength="50"><br>
+
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email"><br><br>
+                <input type="submit" value="Enviar" required="required" >
+            </form>            
+        </section>
+
+
+    </body>
+</html> 

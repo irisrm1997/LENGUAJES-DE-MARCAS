@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8">
+<cliente
+    <dni:numero_ID>1232654</dni:numero_ID>
+    <nombre>Manuel</nombre>
+    <telefono>99999999</telefono>
+    <pedido>
+      <numero_ID>6523213<numero_ID>
+      <articulo>Caja de herramientas</articulo>
+      <precio>187,90</precio>
+    </pedido>
+</cliente>
